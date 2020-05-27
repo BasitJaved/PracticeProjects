@@ -30,20 +30,27 @@ OpenCV 3.4.1 or higher is required for this project, need to install imutils whi
 `$ pip install –upgrade imutils`
 
 ## Usage
-First a legend visualization was created so we can easily visually associate a class label with a color. The legend consists of class label and a colored rectangle next to it. The result:
- 
 
 Segment.py performs segmentation on images, we run this file using command
 
 `$ python seg.py --model enet-cityscapes/enet-model.net --classes enet-cityscapes/enet-classes.txt --colors enet-cityscapes/enet-colors.txt --image images/example_01.png`
 
+
+First a legend visualization was created so we can easily visually associate a class label with a color. The legend consists of class label and a colored rectangle next to it. The result:
+ 
+![](images/legend.jpg)
+
 The results:
 
 Example_01.png
+![](images/img01.png)
  
 Example_02.png
+![](images/img02.png)
  
 Example_03.png
+![](images/img03.png)
  
 Example_04.png
+![](images/img04.jpg)
  
