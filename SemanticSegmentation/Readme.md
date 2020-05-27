@@ -3,25 +3,45 @@ This project is basically a recreation of pyimagesearch blog post “Semantic se
 
  
 ENet was trained on Cityscapes dataset with 20-classes including
+
 •	Unlabeled (i.e., background)
+
 •	Road
+
 •	Sidewalk
+
 •	Building
+
 •	Wall
+
 •	Fence
+
 •	Pole
+
 •	TrafficLight
+
 •	TrafficSign
+
 •	Vegetation
+
 •	Terrain
+
 •	Sky
+
 •	Person
+
 •	Rider
+
 •	Car
+
 •	Truck
+
 •	Bus
+
 •	Train
+
 •	Motorcycle
+
 •	Bicycle
 
 ## Installation
